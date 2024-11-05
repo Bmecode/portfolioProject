@@ -17,7 +17,7 @@ export const Footer = () => {
           href="https://themeforest.net/item/alamin-one-page-portfolio/22499585"
           target="_blank"
         >
-          Buy This Theme - <span className="span">Link</span>
+          Buy This Theme <span className="span">Link</span>
         </a>
       </footer>
     </>
